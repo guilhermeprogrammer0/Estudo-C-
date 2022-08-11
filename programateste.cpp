@@ -25,6 +25,7 @@ int main()
         {
 
             printf("\n %d ",matriz[i][j]);
+            printf("\n ------------------");
 
 
 
